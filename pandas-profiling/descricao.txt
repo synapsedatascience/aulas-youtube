@@ -1,0 +1,32 @@
+Informações sobre o Dataset
+
+UCI_Credit_Card.csv contem informações sobre pagamentos, fatores demográficos, dados de crédido, histórico de pagemento e extratos de contas de clientes de cartão de crédito em Taiwan de abril de 2005 a setembro de 2005 (6 meses de dados).
+
+Existem 25 variáveis
+
+ID: código identificador para cada cliente
+LIMIT_BAL: Limite de crédito em dolares 
+SEX: Gênero (1=masculino, 2=feminino)
+EDUCATION: (1=pós-graduação, 2=graduação, 3=ensino médio, 4=outros, 5=desconhecido, 6=desconhecido)
+MARRIAGE: Marital status (1=casado, 2=solteiro, 3=outros)
+AGE: Idade
+PAY_0: Situação de reembolso em Setembro de 2005 (-1=pago, 1=atraso de 1 Mês, 2=Atrâso de dois meses, …)
+PAY_2: Situação de reembolso em Agosto de 2005 (-1=pago, 1=atraso de 1 Mês, 2=Atrâso de dois meses, …)
+PAY_3: Situação de reembolso em Julho de 2005 (-1=pago, 1=atraso de 1 Mês, 2=Atrâso de dois meses, …)
+PAY_4: Situação de reembolso em junho de 2005 (-1=pago, 1=atraso de 1 Mês, 2=Atrâso de dois meses, …)
+PAY_5: Situação de reembolso em Maio de 2005 (-1=pago, 1=atraso de 1 Mês, 2=Atrâso de dois meses, …)
+PAY_6: Situação de reembolso em Abril de 2005 (-1=pago, 1=atraso de 1 Mês, 2=Atrâso de dois meses, …)
+BILL_AMT1: Valor da Fatura em Setembro de 2005
+BILL_AMT2: Valor da Fatura em Agosto de 2005(NT dollar)
+BILL_AMT3: Valor da Fatura em Julho (NT dollar)
+BILL_AMT4: Valor da Fatura em Junho (NT dollar)
+BILL_AMT5: Valor da Fatura em Maio (NT dollar)
+BILL_AMT6: Valor da Fatura em Abril (NT dollar)
+PAY_AMT1: Valor do pagamento anterior em Setembro de 2005 (dólar NT)
+PAY_AMT2: Valor do pagamento anterior em Agosto de 2005 (dólar NT)
+PAY_AMT3: Valor do pagamento anterior em Julho de 2005 (dólar NT)
+PAY_AMT4: Valor do pagamento anterior em Junho de 2005 (dólar NT)
+PAY_AMT5: Valor do pagamento anterior em Maio de 2005 (dólar NT)
+PAY_AMT6: Valor do pagamento anterior em Abril de 2005 (dólar NT)
+default.payment.next.month: pagamento padrão no próximo mês (1=yes, 0=no)
+
